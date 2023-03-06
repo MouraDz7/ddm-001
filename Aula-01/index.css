@@ -1,0 +1,15 @@
+body {
+    background-color: grey;
+}
+
+.box {
+    width: 100px; /* largura */
+    height: 100px; /* altura */
+    border: 3px solid black; 
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
